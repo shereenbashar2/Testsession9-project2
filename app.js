@@ -1,6 +1,6 @@
 // app.js (edit)
 function greet() {
-  console.log("Hello, World!");
+  console.log("Hello, shereen!");
 }
 
 greet();
