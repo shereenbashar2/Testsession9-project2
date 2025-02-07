@@ -4,5 +4,6 @@ function greet() {
 
  console.log("Hello, bashar!");
 console.log("Hello, all!");
+console.log("Hello, all!");
 
 greet();
